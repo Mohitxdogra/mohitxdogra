@@ -42,7 +42,7 @@ A basic e-commerce platform with product listings, shopping cart, and a user-fri
 - **[View Repository](https://github.com/Mohitxdogra/E-commerce-Website)**
 
 ---
-
+<!-- This is a comment in Markdown
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -50,7 +50,9 @@ A basic e-commerce platform with product listings, shopping cart, and a user-fri
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitxdogra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+---//
+ -->
+
 
 ### 🎓 Education
 - **MCA in Computer Science** - GNDU Amritsar (2023-2025)
@@ -64,11 +66,11 @@ A basic e-commerce platform with product listings, shopping cart, and a user-fri
 ### 📬 Let's Connect
 
 - **Email**: mohitdogra132@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/your-linkedin)
+- [**LinkedIn**](https://www.linkedin.com/in/mohitkumar132/)
 
 ---
 
 <div align="center">
-  <p>Thanks for stopping by! <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20px"></p>
+  <p>Thanks for stopping by! <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100px"></p>
   <p>Feel free to reach out for collaborations or just a chat! 😊</p>
 </div>
