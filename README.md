@@ -32,22 +32,22 @@ A C++ based account management system with basic banking features such as creati
 
 - **Technologies**: C++, GCC, VS Code
 - **Features**: Account creation, deposit, withdrawal, account balance check
-- **[View Repository](https://github.com/your-username/Bank-Management-System)**
+- **[View Repository](https://github.com/Mohitxdogra/Bank-Management-System)**
 
 #### 🛍️ E-commerce Website
 A basic e-commerce platform with product listings, shopping cart, and a user-friendly checkout interface.
 
 - **Technologies**: HTML, CSS, JavaScript, PHP
 - **Features**: Product listings, shopping cart, checkout process
-- **[View Repository](https://github.com/your-username/E-commerce-Website)**
+- **[View Repository](https://github.com/Mohitxdogra/E-commerce-Website)**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohitxdogra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitxdogra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
