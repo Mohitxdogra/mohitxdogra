@@ -71,6 +71,6 @@ A basic e-commerce platform with product listings, shopping cart, and a user-fri
 ---
 
 <div align="center">
-  <p>Thanks for stopping by! <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100px"></p>
+  <p>Thanks for stopping by! <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50px" ></p>
   <p>Feel free to reach out for collaborations or just a chat! 😊</p>
 </div>
