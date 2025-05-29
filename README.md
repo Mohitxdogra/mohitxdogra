@@ -3,7 +3,7 @@
   
   # Hi, I'm Mohit Kumar!
 
-  **Aspiring Software Engineer | Python & C++ Developer | Web Developer**
+  **Aspiring Software Engineer |Web Developer &  Python  | **
 
   <p>Passionate about learning new technologies and creating impactful software solutions. Currently enhancing my skills in Data Structures and Algorithms. Excited to start my journey in software development!</p>
 </div>
